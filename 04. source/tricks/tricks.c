@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdbool.h>
+#include <conio.h>
 
 void nline(int linesNumber){
 
@@ -7,4 +9,9 @@ void nline(int linesNumber){
     }
     return;
 
+}
+
+bool pressedKey(char key){
+    char character = _getch();
+    return ( character == key );
 }

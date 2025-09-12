@@ -2,7 +2,8 @@
 #include <string.h>
 
 #include "00. display\types\00. what\what.h"
-#include "00. display\types\02. why\why.h"
+#include "00. display\types\02. why\beep_reason.h"
+#include "tricks\tricks.h"
 
 void display( char *somthing, int extraIntegerArg, char *extraStringArg ){
 

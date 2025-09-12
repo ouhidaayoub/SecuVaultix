@@ -16,6 +16,8 @@
         "string.h": "c",
         "input.h": "c",
         "beepreasonmessage.h": "c",
-        "what.h": "c"
+        "what.h": "c",
+        "display.h": "c",
+        "defines.h": "c"
     }
 }

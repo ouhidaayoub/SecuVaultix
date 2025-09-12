@@ -10,7 +10,7 @@
 char *input_requirement_of( char *forwhat ){
 
     if(strcmp(forwhat, "home_page_menu") == 0){
-        return *home_page_menu_input();
+        return home_page_menu_input();
     } 
 
 }

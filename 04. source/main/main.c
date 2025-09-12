@@ -17,8 +17,10 @@ int main (){
 
     if(input_requirement_of( HPM ) == "1"){
         printf("\n\nWelcome to login page");
+        _getch();
     }else if(input_requirement_of( HPM ) == "2"){
         printf("\n\nWelcome to sign up page");
+        _getch();
     }
 
     return 0;

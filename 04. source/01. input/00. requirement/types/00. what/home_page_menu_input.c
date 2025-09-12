@@ -6,8 +6,7 @@
 
 #include "defines/defines.h"
 #include "00. display\display.h"
-
-//#include "input/pressedKey.h"
+#include "tricks\tricks.h"
 
 char *home_page_menu_input(){
 
