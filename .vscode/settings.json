@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "conio.h": "c",
+        "userinput.h": "c",
+        "stdio.h": "c",
+        "displayusernamingrules.h": "c",
+        "checkinginputconditions.h": "c",
+        "windows.h": "c",
+        "presskeytodosomething.h": "c",
+        "usernamingrulesdisplay.h": "c",
+        "tricks.h": "c",
+        "requirement.h": "c",
+        "interface.h": "c",
+        "stdbool.h": "c",
+        "interfacemenuinput.h": "c",
+        "string.h": "c",
+        "input.h": "c",
+        "beepreasonmessage.h": "c",
+        "what.h": "c"
+    }
+}
